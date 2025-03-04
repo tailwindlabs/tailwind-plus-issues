@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwind-plus-issues/HEAD/.github/logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwind-plus-issues/HEAD/.github/logo-light.svg">
-    <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwind-plus-issues/HEAD/.github/logo-light.svg" width="235" height="28" style="max-width: 100%;">
+    <img alt="Tailwind Plus" src="https://raw.githubusercontent.com/tailwindlabs/tailwind-plus-issues/HEAD/.github/logo-light.svg" width="235" height="28" style="max-width: 100%;">
   </picture>
 </a>
 
